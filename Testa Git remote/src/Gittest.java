@@ -2,7 +2,7 @@
 public class Gittest {
 
 	  public static void main(String[] args) {
-	    System.out.println("Git is super fun");
+	    System.out.println("Git is super fun and ibrahim is ohhh");
 	  }
 
 }
